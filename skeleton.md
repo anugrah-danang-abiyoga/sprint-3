@@ -1,0 +1,2 @@
+# What happens to the layout when you resize the screen to less than 550px. How do you think that works?
+the layout of the website will also be suitable for the devices like mobile which have smaller screen. To make it work, the CSS file needed to have media queries coding which has to written the number of min-width in it. Therefore, if I write min-width:550px then the website will be readeable for the people who uses mobile.  
